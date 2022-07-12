@@ -91,6 +91,9 @@
 	    </div>
 	  </div>
 	   <div class="form-group" align="center">
+	     <div class="col-sm-5">
+	     <button type="button" class="btn btn-link" id="btnIDcheck">메일인증요청</button>
+	    </div>
 	    <label for="mem_authcode" class="col-sm-4 col-form-label">이메일 인증코드</label>
 	    <div class="col-sm-5">
 	      <input type="text" class="form-control" id="mem_authcode" name="mem_authcode">

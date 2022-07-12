@@ -16,7 +16,7 @@ import com.docmall.service.MemberService;
 import lombok.extern.log4j.Log4j;
 
 @Log4j
-@RequestMapping("member/*")
+@RequestMapping("/member/*")
 @Controller
 public class MemberController {
 	
